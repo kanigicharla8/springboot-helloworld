@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  springboot-helloworld:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-24T13:34:12.3199841-04:00
+    description: A Helm chart for Springboot helloworld
+    digest: 08f05d33d4b9128e715587339dc85023994c3ae5bd97c7aefd2faf050f9b3578
+    name: springboot-helloworld
+    urls:
+    - https://github.com/kanigicharla8/springboot-helloworld/springboot-helloworld-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-24T13:34:12.3174468-04:00
